@@ -1,0 +1,35 @@
+bedroom_choices = { '1':1, '2':2, '3':3, '4':4, '5':5, '6':6 }
+
+price_choices = { '2000000':'20 lacs', '3000000':'30 lacs', '5000000':'50 lacs', '7000000':'70 lacs', '10000000':'1 cr', '20000000':'2 cr', '30000000':'3 cr', '40000000':'4 cr', '50000000':'5 cr', '100000000':'5 cr+'}
+
+state_choices = { 'Andhra Pradesh': 'Andhra Pradesh',
+'Arunachal Pradesh': 'Arunachal Pradesh',
+'Assam': 'Assam',
+'Bihar': 'Bihar',
+'Chhattisgarh': 'Chhattisgarh',
+'Delhi NCR': 'Delhi',
+'Goa': 'Goa',
+'Gujarat': 'Gujarat',
+'Haryana': 'Haryana',
+'Himachal Pradesh': 'Himachal Pradesh',
+'Jharkhand': 'Jharkhand',
+'Karnataka': 'Karnataka',
+'Kerala': 'Kerala',
+'Madhya Pradesh': 'Madhya Pradesh',
+'Maharashtra': 'Maharashtra',
+'Manipur': 'Manipur',
+'Meghalaya': 'Meghalaya',
+'Mizoram': 'Mizoram',
+'Nagaland': 'Nagaland',
+'Odisha': 'Odisha',
+'Punjab': 'Punjab',
+'Rajasthan': 'Rajasthan',
+'Sikkim': 'Sikkim',
+'Tamil Nadu': 'Tamil Nadu',
+'Telangana': 'Telangana',
+'Tripura': 'Tripura',
+'Uttarakhand': 'Uttarakhand',
+'Uttar Pradesh': 'Uttar Pradesh',
+'West Bengal': 'West Bengal',
+}
+
